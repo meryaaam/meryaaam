@@ -88,12 +88,7 @@
 <div align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=meryaaam"/>
 </div>
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/meryaaam/meryaaam/assets/github-contribution-grid-snake.svg" />
-</div>
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/meryaaam/meryaaam/assets/github-contribution-grid-snake.svg" />
-</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
