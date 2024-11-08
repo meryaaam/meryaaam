@@ -55,11 +55,11 @@
 
 - 📱 **Mobile**: ![Ionic](https://img.shields.io/badge/-Ionic-blue?style=flat-circle&logo=ionic) ![React Native](https://img.shields.io/badge/-React%20Native-blue?style=flat-circle&logo=react-native) ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-circle&logo=flutter)
 
-- :hammer_and_wrench: **DevOps & Containerization**: ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=docker) ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-blue?style=flat-circle&logo=docker) ![ArgoCD](https://img.shields.io/badge/-ArgoCD-black?style=flat-circle&logo=argocd)
+- :hammer_and_wrench: **DevOps & Containerization**: ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=docker) ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-blue?style=flat-circle&logo=docker)
 
 - ⚙️ **Version Control & OS**: ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git) ![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell) ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)
 
-- 💻 **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-circle&logo=mysql) ![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis) ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)
+- 💻 **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-circle&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)
 
 - 🔍 **Search Technologies**: ![OpenSearch](https://img.shields.io/badge/-OpenSearch-yellow?style=flat-circle&logo=elasticsearch) ![TypeSense](https://img.shields.io/badge/-TypeSense-green?style=flat-circle&logo=typesense)
 
