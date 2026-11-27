@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:4A0F1F,100:800020&height=220&section=header&text=Meryam%20Chouaiti&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Project%20Lead%20%26%20Backend%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Meryam Chouaiti"/>
+  <img src="assets/header.svg" width="100%" alt="Meryam Chouaiti"/>
 </p>
 
 <p align="center">
@@ -16,18 +16,18 @@
   <img src="https://komarev.com/ghpvc/?username=meryaaam&color=800020&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:800020,100:000000&height=3" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 ## <img src="https://img.shields.io/badge/-%E2%80%8B-800020?style=flat-square" height="22"/> About me
 
-- ⚖️ **AI Project Lead & Backend Developer** at **[LegalTech](https://annonces.legaltech.tn/)**. I write the code myself, from Symfony APIs to Python NLP pipelines
+- ⚖️ **AI Project Lead & Backend Team Leader** at **[LegalTech](https://annonces.legaltech.tn/)**. I write the code myself, from Symfony APIs to Python NLP pipelines
 - 🛠️ **4+ years** building production web apps: REST APIs, role-based access control, async processing, admin dashboards
 - 🔍 I like hard search problems: **Arabic & French** full-text, fuzzy, hybrid and vector retrieval
 - 🎓 Master's in Business Information Systems Engineering · now studying **Cloud Computing & Cybersecurity** at **ESPRIT**
 - 🌍 Open to **backend, AI and search engineering** roles, remote or with relocation
 - 💬 Ask me about **Symfony, OpenSearch, Arabic NLP, RAG, OCR pipelines**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:800020,100:000000&height=3" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 ## <img src="https://img.shields.io/badge/-%E2%80%8B-800020?style=flat-square" height="22"/> What I do
 
@@ -48,7 +48,7 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:800020,100:000000&height=3" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 ## <img src="https://img.shields.io/badge/-%E2%80%8B-800020?style=flat-square" height="22"/> Tech stack
 
@@ -187,7 +187,7 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:800020,100:000000&height=3" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 ## <img src="https://img.shields.io/badge/-%E2%80%8B-800020?style=flat-square" height="22"/> Projects
 
@@ -333,7 +333,7 @@ Earlier, at **Smartegy**: Symfony CRM, Angular and Laravel apps, and WordPress s
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:800020,100:000000&height=3" width="100%"/>
+<img src="assets/divider.svg" width="100%"/>
 
 ## <img src="https://img.shields.io/badge/-%E2%80%8B-800020?style=flat-square" height="22"/> GitHub stats
 
@@ -368,5 +368,5 @@ Earlier, at **Smartegy**: Symfony CRM, Angular and Laravel apps, and WordPress s
 
 <!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800020,55:4A0F1F,100:000000&height=120&section=footer" width="100%"/>
+  <img src="assets/footer.svg" width="100%"/>
 </p>
