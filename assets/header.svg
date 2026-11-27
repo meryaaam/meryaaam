@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0.55" stop-color="#4A0F1F"/>
+      <stop offset="1" stop-color="#800020"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#800020" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#4A0F1F" stop-opacity="0.55"/>
+    </linearGradient>
+    <style>
+      .t{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#fff}
+      .n{font-size:58px;font-weight:700;letter-spacing:1px;animation:f 1.2s ease-out both}
+      .d{font-size:22px;fill:#F2C4CF;letter-spacing:3px;animation:f 1.2s .4s ease-out both}
+      @keyframes f{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+    </style>
+  </defs>
+  <path d="M0 0H1200V200C1000 250 820 160 600 200S220 250 0 205Z" fill="url(#g2)"/>
+  <path d="M0 0H1200V180C1010 230 800 140 600 180S200 230 0 185Z" fill="url(#g)"/>
+  <text class="t n" x="600" y="98" text-anchor="middle">Meryam Chouaiti</text>
+  <text class="t d" x="600" y="140" text-anchor="middle">AI PROJECT LEAD &amp; BACKEND TEAM LEADER</text>
+</svg>
